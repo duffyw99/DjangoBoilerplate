@@ -55,5 +55,5 @@ Use the `docker-compose.prod.yml` instead:
 $ docker-compose -f docker-compose.prod.yml up --build
 ```
 
-### 4. Additional reading
+## Additional reading
 For a more complex option, there's [CookieCutter Django](https://github.com/cookiecutter/cookiecutter-django)
