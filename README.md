@@ -54,3 +54,6 @@ Use the `docker-compose.prod.yml` instead:
 ```bash
 $ docker-compose -f docker-compose.prod.yml up --build
 ```
+
+### 4. Additional reading
+For a more complex option, there's [CookieCutter Django](https://github.com/cookiecutter/cookiecutter-django)
